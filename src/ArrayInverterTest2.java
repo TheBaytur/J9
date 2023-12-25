@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class ArrayInverterTest2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // Main
         testInvert(new int[]{});
         testInvert(new int[]{0});
         testInvert(new int[]{0, 1});
