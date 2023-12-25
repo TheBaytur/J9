@@ -14,3 +14,6 @@ public class ArrayInverterTest2 {
         System.out.println(Arrays.toString(array));
     }
 }
+
+// Существует массив {1, 2, 3, 4}
+// и его надо развернуть (или инвертировать) и получить массив {4, 3, 2, 1}.
